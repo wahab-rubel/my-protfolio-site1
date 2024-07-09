@@ -41,15 +41,16 @@ section .happy-new-year {
   padding-top: 10px;
   padding-bottom: 10px;
 }
-.welcome h1, p, h6 {
-  text-align: center;
+.welcome {
   color: #fff;
-  overflow-x: 120px: 
+  overflow-x: 120px:
+  padding-right: 50px;
 }
 
 /* ------------------new-park-hotel--------------------- */
 section .new-park-hotel{
   padding: 119px 119px
+  background-color: red;
 }
 section .btn{
   text-align: center;
